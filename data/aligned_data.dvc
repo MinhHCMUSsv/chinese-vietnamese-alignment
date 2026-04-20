@@ -1,0 +1,6 @@
+outs:
+- md5: 399fa313f34047f247bd2a2fc5d4be87.dir
+  size: 7723276
+  nfiles: 4
+  hash: md5
+  path: aligned_data
